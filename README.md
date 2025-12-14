@@ -1,1 +1,2 @@
-# quiz_bot2
+# quiz_bot
+quiz bot for free blat tikinikisi
